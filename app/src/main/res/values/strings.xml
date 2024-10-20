@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week1Part3</string>
+    <string name="heading">Calculator</string>
+    <string name="add_btn">ADD</string>
+    <string name="multiply_btn">MULTIPLY</string>
+    <string name="clear_btn">CLEAR</string>
+    <string name="answer">Answer</string>
+    <string name="hint">Enter a number</string>
+</resources>
